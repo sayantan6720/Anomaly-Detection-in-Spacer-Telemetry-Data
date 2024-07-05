@@ -1,4 +1,4 @@
-#Anomaly Detection with Convolutional Autoencoders
+# Anomaly Detection with Convolutional Autoencoders
 
 ### Author
 * Mangalpady Ankur Baliga - baliga.ma@northeastern.edu
